@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//react-portfolio/static/css/main.5dd5cfcc.css",
-    "main.js": "//react-portfolio/static/js/main.64cc58f1.js",
-    "static/js/787.32e17dc1.chunk.js": "//react-portfolio/static/js/787.32e17dc1.chunk.js",
-    "static/media/layered-peaks-haikei.svg": "//react-portfolio/static/media/layered-peaks-haikei.efab90a5664430514b57.svg",
-    "index.html": "//react-portfolio/index.html",
-    "main.5dd5cfcc.css.map": "//react-portfolio/static/css/main.5dd5cfcc.css.map",
-    "main.64cc58f1.js.map": "//react-portfolio/static/js/main.64cc58f1.js.map",
-    "787.32e17dc1.chunk.js.map": "//react-portfolio/static/js/787.32e17dc1.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.5098f8f6.css",
+    "main.js": "/react-portfolio/static/js/main.c0a44ab8.js",
+    "static/js/787.32e17dc1.chunk.js": "/react-portfolio/static/js/787.32e17dc1.chunk.js",
+    "static/media/layered-peaks-haikei.svg": "/react-portfolio/static/media/layered-peaks-haikei.efab90a5664430514b57.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.5098f8f6.css.map": "/react-portfolio/static/css/main.5098f8f6.css.map",
+    "main.c0a44ab8.js.map": "/react-portfolio/static/js/main.c0a44ab8.js.map",
+    "787.32e17dc1.chunk.js.map": "/react-portfolio/static/js/787.32e17dc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dd5cfcc.css",
-    "static/js/main.64cc58f1.js"
+    "static/css/main.5098f8f6.css",
+    "static/js/main.c0a44ab8.js"
   ]
 }
